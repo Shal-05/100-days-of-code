@@ -41,3 +41,5 @@ Sample Input
 Sample Output
 
 6
+
+**Solution is in main.cpp**
