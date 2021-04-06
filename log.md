@@ -11,4 +11,4 @@
 
 **Today's Progress**: Solves a basic c++ pointer problem of HackerRank 
 
-**Link to work:**
+**Link to work:** https://github.com/Shal-05/100-days-of-code/tree/master/work/day%202
