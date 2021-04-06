@@ -9,6 +9,8 @@
 
 ### Day 2: April 6, 2021
 
-**Today's Progress**: Solves a basic c++ pointer problem of HackerRank 
+**Today's Progress**: 
+1- Solved a basic c++ pointer problem of HackerRank 
+2- Solved a basic c++ reversal of array problem of HackerRank                       
 
 **Link to work:** https://github.com/Shal-05/100-days-of-code/tree/master/work/day%202
