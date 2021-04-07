@@ -16,7 +16,7 @@
 **Link to work:** https://github.com/Shal-05/100-days-of-code/tree/master/work/day%202
 
 
-## Day 3: April 7, 2021
+### Day 3: April 7, 2021
 
 **Today's Progress:** Solved a variable sized array problem 
 
