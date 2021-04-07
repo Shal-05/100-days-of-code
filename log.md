@@ -20,4 +20,4 @@
 
 **Today's Progress:** Solved a variable sized array problem 
 
-**Link to work:**
+**Link to work:** https://github.com/Shal-05/100-days-of-code/tree/master/work/day_3
