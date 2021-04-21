@@ -21,3 +21,10 @@
 **Today's Progress:** Solved a variable sized array problem 
 
 **Link to work:** https://github.com/Shal-05/100-days-of-code/tree/master/work/day_3
+
+
+### Day 4: April 21, 2021
+
+**Today's Progress:** Implemented HackerRank algorithm problem named "Apples and Oranges"
+
+**Link to work:** https://github.com/Shal-05/100-days-of-code/tree/master/work/day_4
